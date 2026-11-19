@@ -1,2 +1,2 @@
 # smart-learning-trivia
-I'm a Diploma Software Engineering student passionate about software development and technology. I'm willing to learn new things about IT and related fields
+An Android-based quiz application that allows students to test and improve their general knowledge through interactive trivia questions, instant feedback, and score tracking. Built using Android Studio with API integration.
